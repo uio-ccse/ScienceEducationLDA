@@ -1,6 +1,6 @@
 # ScienceEducationLDA
 
-** Work in progress **
+**Work in progress**
 
 Public repository for the Science Education LDA Project
 
@@ -36,5 +36,8 @@ Graph of cumulative topic prevalence over time: [CumuPrev.html](ScienceEducation
 ## Contact
 Questions can be directed to [Tor Ole Odden](https://www.mn.uio.no/fysikk/english/people/aca/Tor%20Ole%20Odden/)
 
+
+
+## Literature
 
 <a id='paper1'>1</a>: Tor Ole B. Odden and Alessandro Marin, Marcos D. Caballero. Thematic Analysis of 18 Years of Physics Education Research Conference Proceedings using Natural Language Processing, *Physical Review Physics Education Research*, 2020. [Link](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.16.010142)
