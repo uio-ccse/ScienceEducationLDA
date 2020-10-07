@@ -7,11 +7,11 @@ Public repository for the Science Education LDA Project
 ## Description
 This is the public repository for the Science Education LDA research project, which is maintained by [Tor Ole Odden](https://www.mn.uio.no/fysikk/english/people/aca/Tor%20Ole%20Odden/) and [Alessandro Marin](https://www.mn.uio.no/fysikk/english/people/adm/almarin/index.html).
 
-This project is based on the method published in *Physical Review Physics Education Research* <sup><a href="paper1">1</a></sup>. Also refer to the [CCSE/PERC_TopicModel](https://github.com/uio-ccse/PERC_TopicModel) repository. 
+This project is based on the method published in *Physical Review Physics Education Research* <sup><a href="#paper1">1</a></sup>. Also refer to the [CCSE/PERC_TopicModel](https://github.com/uio-ccse/PERC_TopicModel) repository. 
 
 
 ## Jupyter Notebook
-See the [Science Education LDA Notebook](blob/master/Science%20Education%20LDA%20Notebook.ipynb) notebook. This notebook contains an extract of the methods described in <sup><a href="paper1">1</a></sup>. 
+See the [Science Education LDA Notebook](blob/master/Science%20Education%20LDA%20Notebook.ipynb) notebook. This notebook contains an extract of the methods described in <sup><a href="#paper1">1</a></sup>. 
 
 
 
