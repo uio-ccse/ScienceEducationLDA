@@ -27,9 +27,9 @@ The required packages include Gensim (unsupervised semantic modelling on text), 
 
 
 ## Preliminary Results
-Graph of average topic prevalence over time: [AvgPrev.html](AvgPrev.html)
+Graph of average topic prevalence over time: [AvgPrev.html](https://uio-ccse.github.io/ScienceEducationLDA/AvgPrev.html)
 
-Graph of cumulative topic prevalence over time: [CumuPrev.html](ScienceEducationLDA)
+Graph of cumulative topic prevalence over time: [CumuPrev.html](https://uio-ccse.github.io/ScienceEducationLDA/CumuPrev.html)
 
 
 
