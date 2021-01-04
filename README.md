@@ -11,7 +11,7 @@ This project is based on the method published in *Physical Review Physics Educat
 
 
 ## Jupyter Notebook
-See the [Science Education LDA Notebook](blob/master/Science%20Education%20LDA%20Notebook.ipynb) notebook. This notebook contains an extract of the methods described in <sup><a href="#paper1">1</a></sup>. 
+See the [Science Education LDA Notebook](Science%20Education%20LDA%20Notebook.ipynb), which contains an extract of the methods described in <sup><a href="#paper1">1</a></sup>. 
 
 
 
