@@ -1,7 +1,5 @@
 # ScienceEducationLDA
 
-**Work in progress**
-
 Public repository for the Science Education LDA Project
 
 ## Description
